@@ -30,7 +30,7 @@
 
 1. Clone or download this repo:
    ```powershell
-   git clone https://github.com/<your-org>/SharpExclusionFinder.git
+   https://github.com/ShorterKing/SharpExclusionFinder-Powershell.git
    ```
 2. Change directory:
    ```powershell
